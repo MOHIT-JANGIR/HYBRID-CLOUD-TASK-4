@@ -180,4 +180,6 @@ ________________________________________________________________________________
 # `This is the final web page of wordpress .`
 
 ![image](https://user-images.githubusercontent.com/61896468/95585866-7a002c00-0a5d-11eb-8594-10baf4dd946b.png) 
-# <p align="center"></p>
+# <p align="center"> so finally i completed Hybrid cloud task 4,thanks a lot vimal sir and all the 24*7 working technical volunteers for all your seamless and thankful support  </p>
+
+ 
