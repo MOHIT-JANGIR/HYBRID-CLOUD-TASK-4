@@ -1,10 +1,14 @@
-![image](https://user-images.githubusercontent.com/61896468/95590809-26451100-0a64-11eb-83f0-9b89a0302794.png)
+
 
 
 
 
 
 # <p align="center">hybrid cloud task 4</p>
+
+
+
+![image](https://user-images.githubusercontent.com/61896468/95590809-26451100-0a64-11eb-83f0-9b89a0302794.png)
 
 
 
