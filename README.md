@@ -29,9 +29,9 @@
 
 ## *2. In that VPC we have to create 2 subnets:*
 
-###  `` 1.  public subnet [ Accessible for Public World! ] ``
+###   1.  public subnet [ Accessible for Public World! ] 
 
-###  ``2.  private subnet [ Restricted for Public World! ]``
+###  2.  private subnet [ Restricted for Public World! ]
 
 ## `3. Create a public facing internet gateway for connect our VPC/Network to the internet world and attach this gateway to our VPC.`
 
