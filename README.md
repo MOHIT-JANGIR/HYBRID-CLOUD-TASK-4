@@ -17,11 +17,11 @@
 
 # Pre-Requisites
 
-```
-## *We require AWS IAM API keys (access key and secret key) for creating and deleting permissions for AWS resources.*
-## *Terraform should be installed on the Local VM.*
-## *Amazon Resources Created Using Terraform*
-```
+
+## ```We require AWS IAM API keys (access key and secret key) for creating and deleting permissions for AWS resources.```
+## ```Terraform should be installed on the Local VM.```
+## ```Amazon Resources Created Using Terraform```
+
 
 # Performing the following steps:
 
